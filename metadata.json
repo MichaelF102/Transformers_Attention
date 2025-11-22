@@ -1,0 +1,5 @@
+{
+  "name": "Transformer Explainer",
+  "description": "An interactive, 3D-styled educational visualization of the 'Attention Is All You Need' paper, explaining the Transformer architecture, Self-Attention, and Positional Encoding.",
+  "requestFramePermissions": []
+}
