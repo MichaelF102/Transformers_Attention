@@ -131,7 +131,7 @@ const App: React.FC = () => {
               By enabling massive parallelization and capturing long-range dependencies efficiently, it scaled AI to where it is today.
             </p>
             <div className="text-sm text-slate-400">
-              Visualization by <strong>Transformer Explainer</strong> &bull; Based on "Attention Is All You Need" (2017)
+              Visualization by <strong>Transformer Explainer</strong> &bull; Made By Michael Fernandes
             </div>
           </div>
         </section>
